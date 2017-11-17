@@ -5,13 +5,9 @@ I cite github rpeti3 fasq-stats (https://github.com/rpetit3/fastq-stats) and bui
 
 INSTALL:
 
-unzip source.zip
-cd source
-make
-
+      make
 or
-
-g++ fastq_stat.cpp -o fastq_stat
+      g++ fastq_stat.cpp -o fastq_stat
 
 USAGE:
 
