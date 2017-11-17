@@ -4,10 +4,9 @@ Statistic illumina Fastq file
 I cite github rpeti3 fasq-stats (https://github.com/rpetit3/fastq-stats) and build myself code!
 
 INSTALL:
-
-      make
-or
-      g++ fastq_stat.cpp -o fastq_stat
+unzip source.zip
+cd source
+make
 
 USAGE:
 
