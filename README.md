@@ -6,7 +6,9 @@ I cite github rpeti3 fasq-stats (https://github.com/rpetit3/fastq-stats) and bui
 INSTALL:
 
 unzip source.zip
+
 cd source
+
 make
 
 or
