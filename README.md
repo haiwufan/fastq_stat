@@ -1,4 +1,4 @@
-# Fastq-Stat
+# Fastq_Stat
 Statistic illumina Fastq file
 
 I cite github rpeti3 fasq-stats (https://github.com/rpetit3/fastq-stats) and build myself code!
